@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64dd17</color>
+    <color name="colorPrimaryDark">#64dd17</color>
+    <color name="colorAccent">#214713</color>
+
+    <color name="suga">#01e68a</color>
+    <color name="salt">#fafa10</color>
+    <color name="fats">#4897ff</color>
+    <color name="carb">#03fd0a</color>
+    <color name="prot">#ff5452</color>
+    <color name="calo">#de22ff</color>
+    <color name="desc">#2c0392</color>
+    <color name="fibe">#03bfbc</color>
+    <color name="white">#eeeeee</color>
+
+    <color name="primaryColor">#4ebca9</color>
+    <color name="primaryLightColor">#83efdb</color>
+    <color name="primaryDarkColor">#008b7a</color>
+    <color name="secondaryColor">#004c40</color>
+    <color name="secondaryLightColor">#39786b</color>
+    <color name="secondaryDarkColor">#00241a</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+</resources>
